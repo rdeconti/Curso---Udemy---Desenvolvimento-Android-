@@ -19,3 +19,5 @@ Itens abordados no curso:
 4) Entenda as arrays, loops, orientação a objetos e estruturas condicionais
 5) Construa aplicativos durante o curso
 6) Publicar os seus apps
+
+# Foram executados 15 projetos durante o curso

@@ -1,3 +1,7 @@
+:spiral_calendar: Atualizado em 13 Fevereiro de 2021 :heart:
+
+<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Udemy%20-%20Logotipo.png" />
+
 # Udemy
 https://www.udemy.com/
 
